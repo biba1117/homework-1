@@ -6,7 +6,7 @@
 
 Ackermann Function實作
 
-##解題策略
+## 解題策略
 
 這題要使用遞迴和非遞迴兩種方式計算 Ackermann Function。
 
