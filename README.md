@@ -15,7 +15,6 @@ g++ -std=c++11 -Wall -Wextra -pedantic p1.cpp -o p1
 g++ -std=c++11 -Wall -Wextra -pedantic p2.cpp -o p2
 ```
 
-Windows 執行 `./p1.exe` 與 `./p2.exe`，Linux/macOS 執行 `./p1` 與 `./p2`。
 
 第一題輸入 `3 4`，兩個版本都輸出 `125`。示範介面接受 `0 <= m <= 3`、`0 <= n <= 6`。
 
